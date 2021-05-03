@@ -1,5 +1,5 @@
 ## Stakeholders
-####### Note
+###### Note
 > Consultation is a mandatory component in the regulatory process.  The Treasury Board of Canada Secretariat requires that consultations be ongoing, far-reaching, and meaningful.  This means that you should be consulting at every stage of the regulatory process. Consultations on the specifics of the proposed regulatory amendments are required.  As such, it is highly recommended that a Consultation Strategy document be prepared that outlines all the method(s) that will be used to consult identified stakeholders.
 
 ### List all stakeholders that would be impacted by this proposal. Cast as wide a net as possible – this means including operational areas, regional offices, other government departments, and organizations representing stakeholders.
