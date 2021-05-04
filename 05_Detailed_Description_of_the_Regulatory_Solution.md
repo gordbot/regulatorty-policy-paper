@@ -1,5 +1,5 @@
 ## Detailed Description of the Regulatory Solution
-####### Note
+###### Note
 > If changes are numerous, using an annex to the paper is recommended to describe the changes.  Simply state here: “See ‘Annex A’” – A sample ‘Annex A’ is located at the end of this policy paper template.
 
 *Instructions*: Outline what specifically you are proposing to change in the regulations. Do not write or reword the regulatory text. Regulatory Affairs and Legal Services will work with you to develop drafting instructions.
